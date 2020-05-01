@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ConsoleGame2048\Game2048\bin\Debug\Game2048.dll
+C:\Users\User\source\repos\ConsoleGame2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\User\source\repos\ConsoleGame2048\Game2048\obj\Debug\Game2048.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleGame2048\Game2048\obj\Debug\Game2048.dll
+C:\Users\User\source\repos\ConsoleGame2048\Game2048\obj\Debug\Game2048.pdb
